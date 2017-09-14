@@ -23,6 +23,7 @@ print("Forward:")
 for x in c:
     print(x)
 
+# From solution
 print("Reverse:")
 for x in reversed(c):
     print(x)
